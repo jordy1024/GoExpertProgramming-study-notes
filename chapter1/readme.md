@@ -1,4 +1,6 @@
 ## 1.1 channel
+原文[https://rainbowmango.gitbook.io/go/chapter01/1.1-chan](https://rainbowmango.gitbook.io/go/chapter01/1.1-chan)
+
 
 ## 1.2 slice
 
